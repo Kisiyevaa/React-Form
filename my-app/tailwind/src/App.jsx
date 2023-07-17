@@ -8,7 +8,7 @@ function App() {
   return (
    <div>
     <Qeyd data={data} setData={setData}/>
-    <Qeyd2 data={data} />
+    <Qeyd2 data={data}/>
    </div>
   )
 }

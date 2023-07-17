@@ -1,6 +1,6 @@
 import React from 'react'
 
-function DataItem(props) {
+function DataItem(props){
   return (
     <li className='text-left pt-3 text-xl font-medium block'>
        <p>Ad:{props.ad}</p>

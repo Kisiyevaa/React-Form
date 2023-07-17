@@ -17,7 +17,7 @@ const Qeyd = ({ data, setData }) => {
     }else{
       alert('xana bosdur')
     }
-
+      
   }
 
   return (
